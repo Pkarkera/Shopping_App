@@ -32,3 +32,11 @@ Download Visual Studio Code from the following link:
 
 `https://code.visualstudio.com/download`
 
+## About the Project:
+
+1. In this project I have created a simple Shopping App using PHP.
+
+2. I have created Register Page and Login Page that would create the user and help login into the app.
+
+3. I have also created a logout page that would log out the person logged in.
+
